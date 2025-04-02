@@ -20,7 +20,7 @@ app.listen(PORT, () => {
 // Ping URLs
 const PING_URLS = [
     "https://lemon-16bot.onrender.com", // Your main bot URL
-    "https://your-second-bot.onrender.com" // Your second bot URL
+    "https://ping-xzu3.onrender.com" // Your second bot URL
 ];
 
 const INTERVAL = 3 * 60 * 1000; // Ping every 3 minutes
